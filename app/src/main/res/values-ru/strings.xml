@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tester</string>
+    <string name="group">Группа</string>
+    <string name="name">Имя</string>
+    <string name="select_file">Выберите файл с тестом</string>
+    <string name="start">Начать</string>
+    <string name="submit">Ответить</string>
+    <string name="file_read_error">Не удалось прочитать файл с тестом</string>
+    <string name="question_number" formatted="false">Вопрос №%d из %d:</string>
+    <string name="correct_answers" formatted="false">%d правильных ответов из %d</string>
+    <string name="enter_name">Введите ФИО</string>
+    <string name="enter_group">Введите номер своей группы</string>
+</resources>
